@@ -1,10 +1,10 @@
 # BleuFear GTK Theme
 
-gtk_color_scheme = "base_color:#363636\nbg_color:#292929\nselected_bg_color:#0390c4\ntext_color:#eeeeee\nfg_color:#eeeeee\nselected_fg_color:#eeeeee\nlink_color:#0390c4"
+gtk_color_scheme = "base_color:#121212\nbg_color:#292929\nselected_bg_color:#00AAAA\ntext_color:#eeeeee\nfg_color:#eeeeee\nselected_fg_color:#eeeeee\nlink_color:#00AAAA"
 
 gtk-icon-sizes = "panel=16,16:gtk-button=16,16" # Icon sizes
-gtk-button-images = 0 # Disables icons in buttons
-gtk-toolbar-style = 1 # Enables text in toolbar
+# gtk-button-images = 0 # Disables icons in buttons
+# gtk-toolbar-style = 1 # Enables text in toolbar
 gtk-auto-mnemonics = 1 # Disables ugly lines under menu items
 
 # Default Style
