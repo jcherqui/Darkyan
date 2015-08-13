@@ -1,6 +1,6 @@
-# Bleufear GTK theme
+# Darkyan GTK theme
 
-BleuFear is a dark GTK2/GTK3/unity/metacity/xfwm theme with a wild streak of electric blue.  
+Darkyan is a dark GTK2/GTK3/unity/metacity/xfwm theme.
 Original project page: https://github.com/maxfierke/BleuFear
 
 ## Install/Usage
@@ -26,16 +26,12 @@ color: black;
 }
 ```
 
-## Links
- * Ubuntu PPA: https://launchpad.net/~m4xm4n/+archive/ubuntu/bleufear
- * ArchLinux AUR package: https://aur.archlinux.org/packages.php?ID=55505
-
-
 ## License
-BleuFear is licensed under the GNU GPL version 3.
+Darkyan is licensed under the GNU GPL version 3.
 <http://www.gnu.org/copyleft/gpl.html>
 
 ## Authors
+* Jcherqui (https://github.com/jcherqui/)
 * Max Fierke (http://www.maxfierke.com/ - https://github.com/maxfierke/ - https://www.maxfierke.com/projects/)
 * Satyajit Sahoo (satya164) - Reponsible for the Evolve theme, of which BleuFear is based on.
 * Ivan Kasenkov - Made the metacity, xfwm4, and unity theme that I took from his Adwaita-X-Dark theme.
