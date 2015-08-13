@@ -1,6 +1,6 @@
 # Darkyan GTK theme
 
-Darkyan is a dark GTK2/GTK3/unity/metacity/xfwm theme.
+Darkyan is a dark GTK2/GTK3/unity/metacity/xfwm theme.  
 Original project page: https://github.com/maxfierke/BleuFear
 
 ## Install/Usage
@@ -31,7 +31,7 @@ Darkyan is licensed under the GNU GPL version 3.
 <http://www.gnu.org/copyleft/gpl.html>
 
 ## Authors
-* Jcherqui (https://github.com/jcherqui/)
+* ston3o (https://github.com/ston3o/)
 * Max Fierke (http://www.maxfierke.com/ - https://github.com/maxfierke/ - https://www.maxfierke.com/projects/)
 * Satyajit Sahoo (satya164) - Reponsible for the Evolve theme, of which BleuFear is based on.
 * Ivan Kasenkov - Made the metacity, xfwm4, and unity theme that I took from his Adwaita-X-Dark theme.
